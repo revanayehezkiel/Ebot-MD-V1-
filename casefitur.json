@@ -1,0 +1,16 @@
+   {
+       "features": [
+           {
+               "command": "hi",
+               "response": "Hello! How can I assist you today?"
+           },
+           {
+               "command": "info",
+               "response": "This bot can help you with various tasks."
+           },
+           {
+               "command": "bye",
+               "response": "Goodbye! Have a great day!"
+           }
+       ]
+   }
